@@ -40,7 +40,8 @@
       "skill1": "Linux terminal",
       "skill2": "Git",
       "skill3": "json",
-      "skill4": "xml"
+      "skill4": "xml",
+      "skill4": "Postman"
       ctrl+c
 12. Отправить сразу 2 файла на внешний репозиторий:
       git add .
